@@ -2,3 +2,5 @@
 Başlangıç projem
 
 Github da henüz yeniyim.
+
+Öğrenmeye devam
